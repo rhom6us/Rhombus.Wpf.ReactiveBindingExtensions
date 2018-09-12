@@ -5,6 +5,8 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Authors>Thomas Butler</Authors>
     <Company>Butler Software</Company>
+    <GenerateAssemblyInfo>true</GenerateAssemblyInfo>
+    <Version>1.0.0-beta1</Version>
   </PropertyGroup>
 
   <ItemGroup>
